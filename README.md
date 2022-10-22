@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prateek
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning intermediate python
+- 🌱 I’m currently learning intermediate python and bash
 - 💞️ I've not decided the end-goal but Data Science and programming in general pique my curiosity
 
 <!---
